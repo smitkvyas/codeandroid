@@ -1,0 +1,22 @@
+{
+  "mobilePhone": [
+    {
+      "modelName": "Samsung Galaxy S10",
+      "price": "70000",
+      "modelYear": "2019",
+      "detailsLink": "google.com"
+    },
+    {
+      "modelName": "Samsung Galaxy S20",
+      "price": "70000",
+      "modelYear": "2020",
+      "detailsLink": "google.com"
+    },
+    {
+      "modelName": "Samsung Galaxy S9",
+      "price": "70000",
+      "modelYear": "2018",
+      "detailsLink": "google.com"
+    }
+  ]
+}
