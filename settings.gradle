@@ -1,2 +1,2 @@
-include ':recyclerviewsample'
+include ':recyclerviewsample', ':userprofile-mvvm'
 rootProject.name='My Application'
